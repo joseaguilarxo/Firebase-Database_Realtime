@@ -76,6 +76,6 @@ Programacion:
 	Paso 3: En este ejemplo haremos una escritura modificando el contenido de la rama
 	Paso 4: crearemos el evento addValueEventListener dentro del metodo onStart(), para poder leer desde 	la base de datos
 
-LA DOCUMENTACION PASO A PASO ESTA EN EL SISTEMA
+LA DOCUMENTACION PASO A PASO ESTA EN EL PROYECTO
 
 
